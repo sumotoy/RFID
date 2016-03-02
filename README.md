@@ -9,3 +9,8 @@ all my cards and tags serial, I don't know if works with all cards strain. It's 
 place since the current Balboa library and the old Leong one not working at all with 32 bit micros and the Balboa one it's pretty heavy for my needs!
 I will add basic features to write cards and tags as well a small routìne that recognize the various card but my plan it's maintain small.
 It's also SPI transaction compatible so it will work with Arduino 1.5.8 IDE and Teensy IDE.
+
+UPDATE
+Library it's a bit obsolete, in the maintime the original author greatly improved his library, I would suggest to use his version:
+https://github.com/miguelbalboa/rfid
+
